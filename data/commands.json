@@ -1,0 +1,1 @@
+[null,{"name":"test","permissions":"NONE","restriction":"1","actions":[{"channel":"0","varName":"","message":"This is a test okay.","storage":"0","varName2":"","name":"Send Message"}]},{"name":"test2","permissions":"NONE","restriction":"1","actions":[{"gameName":"TEST OKAY","gameLink":"","name":"Set Bot Game"}]}]
